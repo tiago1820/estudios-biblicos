@@ -1,6 +1,6 @@
-# Mis estudios y anotaciones sobre el libro: CAMINO A LA ORACIÓN FERVIENTE - ARTHUR W. PINK
+## Mis estudios y anotaciones sobre el libro: CAMINO A LA ORACIÓN FERVIENTE - ARTHUR W. PINK
 
-## LA ORACIÓN: TAREA PRIMORDIAL DE LOS MINISTROS
+### LA ORACIÓN: TAREA PRIMORDIAL DE LOS MINISTROS
 
 Los ministros deben dedicarse de lleno a la oración y al ministerio de la palabra (Hechos 6:4):
 
@@ -18,7 +18,7 @@ ES:
 PT:
 "Saúda-vos Epafras, que é dos vossos, servo de Cristo, combatendo sempre por vós em orações, para que vos conserveis firmes, perfeitos e consumados em toda a vontade de Deus. Pois eu lhe dou testemunho de que tem grande zelo por vós, e pelos que estão em Laodiceia, e pelos que estão em Hierápolis."
 
-## LA ORACIÓN: UNA TAREA UNIVERSAL ENTRE LOS CREYENTES
+### LA ORACIÓN: UNA TAREA UNIVERSAL ENTRE LOS CREYENTES
 
 Al estudiar estas oraciones en las epístolas, y al considerarlas frase por frase aprenderemos con mayor claridad qué bendiciones debemos procurar para nosotros y para otros (Romanos 8:26, 1 Juan 5:14,15):
 
