@@ -1,0 +1,61 @@
+body {
+    background: rgb(63, 94, 251);
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(241, 70, 252, 1) 100%);
+    font-family: sans-serif;
+    color: white;
+}
+main {
+    margin: 35px auto 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.section1 {
+    background-color: rgb(255, 62, 165, 0.3);
+    padding: 0 10px 10px 10px;
+    border-radius: 8px;
+}
+h1 {
+    text-align: center;
+}
+button {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 135px;
+    width: 135px;
+}
+button:hover {
+    cursor: pointer;
+}
+.section2 {
+    background-color: rgb(255, 62, 165, 0.3);
+    border-top-right-radius: 8px;
+    border-bottom-right-radius: 8px;
+    width: 250px;
+    height: 400px;
+    padding: 0 20px;
+}
+.section3 {
+    background-color: rgb(255, 62, 165, 0.3);
+    border-top-left-radius: 8px;
+    border-bottom-left-radius: 8px;
+    width: 250px;
+    padding: 20px;
+}
+button img {
+    width: 100%;
+}
+.luana {
+    width: 100%;
+}
+.statistics {
+    border: 1px solid white;
+    height: 105px;
+    border-radius: 8px;
+    padding: 8px 20px;
+    box-sizing: border-box;
+}
+footer {
+    text-align: center;
+}
